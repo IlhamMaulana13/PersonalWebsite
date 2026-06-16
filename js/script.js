@@ -13,7 +13,9 @@ function cancel(){
 
 const texts = [
     "WEB DEVELOPER",
-    "DESIGNER"
+    "UI/UX DESIGNER",
+    "Mobile App Developer",
+    "Database Administrator"
 ]
 
 let speed = 100;
